@@ -1,0 +1,1086 @@
+,Breed,Year,Rank
+0,Norwegian Buhund,2023,175
+1,Norwegian Buhund,2022,178
+2,Norwegian Buhund,2021,170
+3,Norwegian Buhund,2020,168
+4,Norwegian Buhund,2019,171
+5,Whippet,2023,51
+6,Whippet,2022,54
+7,Whippet,2021,57
+8,Whippet,2020,59
+9,Whippet,2019,58
+10,Cesky Terrier,2023,192
+11,Cesky Terrier,2022,191
+12,Cesky Terrier,2021,190
+13,Cesky Terrier,2020,191
+14,Cesky Terrier,2019,190
+15,Chihuahua,2023,32
+16,Chihuahua,2022,34
+17,Chihuahua,2021,37
+18,Chihuahua,2020,34
+19,Chihuahua,2019,35
+20,American Staffordshire Terrier,2023,95
+21,American Staffordshire Terrier,2022,87
+22,American Staffordshire Terrier,2021,81
+23,American Staffordshire Terrier,2020,82
+24,American Staffordshire Terrier,2019,86
+25,Mastiff,2023,38
+26,Mastiff,2022,37
+27,Mastiff,2021,35
+28,Mastiff,2020,33
+29,Mastiff,2019,32
+30,Welsh Springer Spaniel,2023,132
+31,Welsh Springer Spaniel,2022,126
+32,Welsh Springer Spaniel,2021,126
+33,Welsh Springer Spaniel,2020,128
+34,Welsh Springer Spaniel,2019,132
+35,Rottweiler,2023,9
+36,Rottweiler,2022,7
+37,Rottweiler,2021,8
+38,Rottweiler,2020,8
+39,Rottweiler,2019,8
+40,Coton de Tulear,2023,90
+41,Coton de Tulear,2022,NA
+42,Coton de Tulear,2021,83
+43,Coton de Tulear,2020,80
+44,Coton de Tulear,2019,82
+45,Treeing Walker Coonhound,2023,155
+46,Treeing Walker Coonhound,2022,159
+47,Treeing Walker Coonhound,2021,151
+48,Treeing Walker Coonhound,2020,153
+49,Treeing Walker Coonhound,2019,131
+50,Kerry Blue Terrier,2023,160
+51,Kerry Blue Terrier,2022,146
+52,Kerry Blue Terrier,2021,134
+53,Kerry Blue Terrier,2020,133
+54,Kerry Blue Terrier,2019,135
+55,Weimaraner,2023,48
+56,Weimaraner,2022,44
+57,Weimaraner,2021,40
+58,Weimaraner,2020,39
+59,Weimaraner,2019,39
+60,Grand Basset Griffon Vendeen,2023,NA
+61,Grand Basset Griffon Vendeen,2022,NA
+62,Grand Basset Griffon Vendeen,2021,189
+63,Grand Basset Griffon Vendeen,2020,188
+64,Grand Basset Griffon Vendeen,2019,180
+65,American Foxhound,2023,182
+66,American Foxhound,2022,196
+67,American Foxhound,2021,195
+68,American Foxhound,2020,192
+69,American Foxhound,2019,191
+70,Norfolk Terrier,2023,134
+71,Norfolk Terrier,2022,138
+72,Norfolk Terrier,2021,130
+73,Norfolk Terrier,2020,130
+74,Norfolk Terrier,2019,133
+75,Silky Terrier,2023,114
+76,Silky Terrier,2022,122
+77,Silky Terrier,2021,116
+78,Silky Terrier,2020,108
+79,Silky Terrier,2019,111
+80,Dalmatian,2023,47
+81,Dalmatian,2022,49
+82,Dalmatian,2021,49
+83,Dalmatian,2020,51
+84,Dalmatian,2019,60
+85,Canaan Dog,2023,191
+86,Canaan Dog,2022,187
+87,Canaan Dog,2021,187
+88,Canaan Dog,2020,184
+89,Canaan Dog,2019,181
+90,Cotons de Tulear,2023,NA
+91,Cotons de Tulear,2022,84
+92,Cotons de Tulear,2021,NA
+93,Cotons de Tulear,2020,NA
+94,Cotons de Tulear,2019,NA
+95,Maltese,2023,37
+96,Maltese,2022,38
+97,Maltese,2021,39
+98,Maltese,2020,38
+99,Maltese,2019,36
+100,Saluki,2023,120
+101,Saluki,2022,135
+102,Saluki,2021,128
+103,Saluki,2020,144
+104,Saluki,2019,127
+105,Boykin Spaniel,2023,75
+106,Boykin Spaniel,2022,82
+107,Boykin Spaniel,2021,90
+108,Boykin Spaniel,2020,87
+109,Boykin Spaniel,2019,90
+110,Soft Coated Wheaten Terrier,2023,69
+111,Soft Coated Wheaten Terrier,2022,66
+112,Soft Coated Wheaten Terrier,2021,66
+113,Soft Coated Wheaten Terrier,2020,58
+114,Soft Coated Wheaten Terrier,2019,54
+115,Bedlington Terrier,2023,149
+116,Bedlington Terrier,2022,152
+117,Bedlington Terrier,2021,133
+118,Bedlington Terrier,2020,141
+119,Bedlington Terrier,2019,153
+120,Lhasa Apso,2023,85
+121,Lhasa Apso,2022,86
+122,Lhasa Apso,2021,84
+123,Lhasa Apso,2020,78
+124,Lhasa Apso,2019,79
+125,Russell Terrier,2023,66
+126,Russell Terrier,2022,73
+127,Russell Terrier,2021,72
+128,Russell Terrier,2020,72
+129,Russell Terrier,2019,76
+130,English Setter,2023,97
+131,English Setter,2022,93
+132,English Setter,2021,98
+133,English Setter,2020,101
+134,English Setter,2019,100
+135,Boston Terrier,2023,23
+136,Boston Terrier,2022,24
+137,Boston Terrier,2021,23
+138,Boston Terrier,2020,21
+139,Boston Terrier,2019,21
+140,Miniature American Shepherd,2023,29
+141,Miniature American Shepherd,2022,31
+142,Miniature American Shepherd,2021,30
+143,Miniature American Shepherd,2020,31
+144,Miniature American Shepherd,2019,29
+145,Bluetick Coonhound,2023,139
+146,Bluetick Coonhound,2022,133
+147,Bluetick Coonhound,2021,140
+148,Bluetick Coonhound,2020,137
+149,Bluetick Coonhound,2019,140
+150,Doberman Pinscher,2023,15
+151,Doberman Pinscher,2022,15
+152,Doberman Pinscher,2021,16
+153,Doberman Pinscher,2020,18
+154,Doberman Pinscher,2019,19
+155,Bearded Collie,2023,154
+156,Bearded Collie,2022,124
+157,Bearded Collie,2021,143
+158,Bearded Collie,2020,125
+159,Bearded Collie,2019,138
+160,Spinoni Italiani,2023,NA
+161,Spinoni Italiani,2022,112
+162,Spinoni Italiani,2021,108
+163,Spinoni Italiani,2020,110
+164,Spinoni Italiani,2019,118
+165,Welsh Terrier,2023,116
+166,Welsh Terrier,2022,113
+167,Welsh Terrier,2021,109
+168,Welsh Terrier,2020,112
+169,Welsh Terrier,2019,112
+170,Basenji,2023,81
+171,Basenji,2022,91
+172,Basenji,2021,87
+173,Basenji,2020,86
+174,Basenji,2019,88
+175,Irish Wolfhound,2023,73
+176,Irish Wolfhound,2022,89
+177,Irish Wolfhound,2021,85
+178,Irish Wolfhound,2020,74
+179,Irish Wolfhound,2019,77
+180,Gordon Setter,2023,106
+181,Gordon Setter,2022,99
+182,Gordon Setter,2021,113
+183,Gordon Setter,2020,107
+184,Gordon Setter,2019,115
+185,Pulik,2023,NA
+186,Pulik,2022,161
+187,Pulik,2021,164
+188,Pulik,2020,143
+189,Pulik,2019,NA
+190,Irish Terrier,2023,137
+191,Irish Terrier,2022,131
+192,Irish Terrier,2021,124
+193,Irish Terrier,2020,120
+194,Irish Terrier,2019,121
+195,Mudi,2023,130
+196,Mudi,2022,150
+197,Mudi,2021,NA
+198,Mudi,2020,NA
+199,Mudi,2019,NA
+200,Portuguese Podengo Pequeno,2023,163
+201,Portuguese Podengo Pequeno,2022,171
+202,Portuguese Podengo Pequeno,2021,162
+203,Portuguese Podengo Pequeno,2020,157
+204,Portuguese Podengo Pequeno,2019,149
+205,Bull Terrier,2023,65
+206,Bull Terrier,2022,64
+207,Bull Terrier,2021,61
+208,Bull Terrier,2020,64
+209,Bull Terrier,2019,62
+210,English Springer Spaniel,2023,27
+211,English Springer Spaniel,2022,26
+212,English Springer Spaniel,2021,26
+213,English Springer Spaniel,2020,26
+214,English Springer Spaniel,2019,27
+215,Cocker Spaniel,2023,30
+216,Cocker Spaniel,2022,29
+217,Cocker Spaniel,2021,29
+218,Cocker Spaniel,2020,30
+219,Cocker Spaniel,2019,28
+220,Toy Fox Terrier,2023,110
+221,Toy Fox Terrier,2022,108
+222,Toy Fox Terrier,2021,110
+223,Toy Fox Terrier,2020,113
+224,Toy Fox Terrier,2019,109
+225,English Toy Spaniel,2023,145
+226,English Toy Spaniel,2022,134
+227,English Toy Spaniel,2021,137
+228,English Toy Spaniel,2020,138
+229,English Toy Spaniel,2019,141
+230,Affenpinscher,2023,162
+231,Affenpinscher,2022,148
+232,Affenpinscher,2021,159
+233,Affenpinscher,2020,163
+234,Affenpinscher,2019,152
+235,Scottish Deerhound,2023,171
+236,Scottish Deerhound,2022,155
+237,Scottish Deerhound,2021,158
+238,Scottish Deerhound,2020,166
+239,Scottish Deerhound,2019,151
+240,Skye Terrier,2023,185
+241,Skye Terrier,2022,189
+242,Skye Terrier,2021,181
+243,Skye Terrier,2020,183
+244,Skye Terrier,2019,189
+245,Petits Bassets Griffons Vendeen,2023,NA
+246,Petits Bassets Griffons Vendeen,2022,NA
+247,Petits Bassets Griffons Vendeen,2021,161
+248,Petits Bassets Griffons Vendeen,2020,164
+249,Petits Bassets Griffons Vendeen,2019,154
+250,Yorkshire Terrier,2023,13
+251,Yorkshire Terrier,2022,13
+252,Yorkshire Terrier,2021,13
+253,Yorkshire Terrier,2020,13
+254,Yorkshire Terrier,2019,12
+255,Glen of Imaal Terrier,2023,170
+256,Glen of Imaal Terrier,2022,169
+257,Glen of Imaal Terrier,2021,175
+258,Glen of Imaal Terrier,2020,169
+259,Glen of Imaal Terrier,2019,170
+260,Cardigan Welsh Corgi,2023,63
+261,Cardigan Welsh Corgi,2022,62
+262,Cardigan Welsh Corgi,2021,67
+263,Cardigan Welsh Corgi,2020,66
+264,Cardigan Welsh Corgi,2019,67
+265,Rat Terrier,2023,86
+266,Rat Terrier,2022,85
+267,Rat Terrier,2021,86
+268,Rat Terrier,2020,83
+269,Rat Terrier,2019,92
+270,Japanese Chin,2023,103
+271,Japanese Chin,2022,105
+272,Japanese Chin,2021,105
+273,Japanese Chin,2020,111
+274,Japanese Chin,2019,110
+275,Dogo Argentino,2023,93
+276,Dogo Argentino,2022,88
+277,Dogo Argentino,2021,89
+278,Dogo Argentino,2020,93
+279,Dogo Argentino,2019,56
+280,Chinese Crested,2023,79
+281,Chinese Crested,2022,80
+282,Chinese Crested,2021,77
+283,Chinese Crested,2020,79
+284,Chinese Crested,2019,81
+285,Azawakh,2023,196
+286,Azawakh,2022,194
+287,Azawakh,2021,185
+288,Azawakh,2020,193
+289,Azawakh,2019,192
+290,Keeshonden,2023,NA
+291,Keeshonden,2022,90
+292,Keeshonden,2021,95
+293,Keeshonden,2020,96
+294,Keeshonden,2019,89
+295,American Hairless Terrier,2023,112
+296,American Hairless Terrier,2022,120
+297,American Hairless Terrier,2021,135
+298,American Hairless Terrier,2020,129
+299,American Hairless Terrier,2019,126
+300,Greater Swiss Mountain Dog,2023,87
+301,Greater Swiss Mountain Dog,2022,83
+302,Greater Swiss Mountain Dog,2021,78
+303,Greater Swiss Mountain Dog,2020,76
+304,Greater Swiss Mountain Dog,2019,74
+305,Grand Basset Griffon Vendéen,2023,197
+306,Grand Basset Griffon Vendéen,2022,185
+307,Grand Basset Griffon Vendéen,2021,NA
+308,Grand Basset Griffon Vendéen,2020,NA
+309,Grand Basset Griffon Vendéen,2019,NA
+310,Komondor,2023,180
+311,Komondor,2022,NA
+312,Komondor,2021,NA
+313,Komondor,2020,NA
+314,Komondor,2019,NA
+315,Chow Chow,2023,88
+316,Chow Chow,2022,92
+317,Chow Chow,2021,80
+318,Chow Chow,2020,84
+319,Chow Chow,2019,78
+320,St. Bernard,2023,NA
+321,St. Bernard,2022,56
+322,St. Bernard,2021,53
+323,St. Bernard,2020,52
+324,St. Bernard,2019,48
+325,Italian Greyhound,2023,62
+326,Italian Greyhound,2022,63
+327,Italian Greyhound,2021,73
+328,Italian Greyhound,2020,69
+329,Italian Greyhound,2019,68
+330,Newfoundland,2023,42
+331,Newfoundland,2022,42
+332,Newfoundland,2021,45
+333,Newfoundland,2020,41
+334,Newfoundland,2019,40
+335,Portuguese Water Dog,2023,49
+336,Portuguese Water Dog,2022,46
+337,Portuguese Water Dog,2021,44
+338,Portuguese Water Dog,2020,49
+339,Portuguese Water Dog,2019,49
+340,Wirehaired Pointing Griffon,2023,57
+341,Wirehaired Pointing Griffon,2022,57
+342,Wirehaired Pointing Griffon,2021,60
+343,Wirehaired Pointing Griffon,2020,63
+344,Wirehaired Pointing Griffon,2019,63
+345,Lowchen,2023,NA
+346,Lowchen,2022,NA
+347,Lowchen,2021,157
+348,Lowchen,2020,161
+349,Lowchen,2019,160
+350,Tibetan Terrier,2023,108
+351,Tibetan Terrier,2022,106
+352,Tibetan Terrier,2021,112
+353,Tibetan Terrier,2020,99
+354,Tibetan Terrier,2019,103
+355,Petits Bassets Griffons Vendéen,2023,NA
+356,Petits Bassets Griffons Vendéen,2022,154
+357,Petits Bassets Griffons Vendéen,2021,NA
+358,Petits Bassets Griffons Vendéen,2020,NA
+359,Petits Bassets Griffons Vendéen,2019,NA
+360,Bernese Mountain Dog,2023,21
+361,Bernese Mountain Dog,2022,22
+362,Bernese Mountain Dog,2021,20
+363,Bernese Mountain Dog,2020,22
+364,Bernese Mountain Dog,2019,23
+365,Finnish Spitz,2023,194
+366,Finnish Spitz,2022,188
+367,Finnish Spitz,2021,191
+368,Finnish Spitz,2020,187
+369,Finnish Spitz,2019,185
+370,Pointer,2023,125
+371,Pointer,2022,107
+372,Pointer,2021,120
+373,Pointer,2020,116
+374,Pointer,2019,117
+375,Spanish Water Dog,2023,144
+376,Spanish Water Dog,2022,163
+377,Spanish Water Dog,2021,145
+378,Spanish Water Dog,2020,149
+379,Spanish Water Dog,2019,146
+380,Shih Tzu,2023,20
+381,Shih Tzu,2022,20
+382,Shih Tzu,2021,22
+383,Shih Tzu,2020,20
+384,Shih Tzu,2019,20
+385,American Water Spaniel,2023,168
+386,American Water Spaniel,2022,166
+387,American Water Spaniel,2021,166
+388,American Water Spaniel,2020,158
+389,American Water Spaniel,2019,166
+390,Pyrenean Shepherd,2023,187
+391,Pyrenean Shepherd,2022,190
+392,Pyrenean Shepherd,2021,192
+393,Pyrenean Shepherd,2020,182
+394,Pyrenean Shepherd,2019,184
+395,Kuvasz,2023,173
+396,Kuvasz,2022,NA
+397,Kuvasz,2021,NA
+398,Kuvasz,2020,NA
+399,Kuvasz,2019,NA
+400,Bloodhound,2023,53
+401,Bloodhound,2022,50
+402,Bloodhound,2021,50
+403,Bloodhound,2020,46
+404,Bloodhound,2019,51
+405,Neapolitan Mastiff,2023,118
+406,Neapolitan Mastiff,2022,119
+407,Neapolitan Mastiff,2021,106
+408,Neapolitan Mastiff,2020,100
+409,Neapolitan Mastiff,2019,102
+410,Boxer,2023,18
+411,Boxer,2022,16
+412,Boxer,2021,14
+413,Boxer,2020,14
+414,Boxer,2019,14
+415,Airedale Terrier,2023,67
+416,Airedale Terrier,2022,65
+417,Airedale Terrier,2021,62
+418,Airedale Terrier,2020,62
+419,Airedale Terrier,2019,61
+420,Giant Schnauzer,2023,56
+421,Giant Schnauzer,2022,58
+422,Giant Schnauzer,2021,65
+423,Giant Schnauzer,2020,67
+424,Giant Schnauzer,2019,72
+425,Border Terrier,2023,94
+426,Border Terrier,2022,95
+427,Border Terrier,2021,91
+428,Border Terrier,2020,97
+429,Border Terrier,2019,85
+430,Irish Water Spaniel,2023,177
+431,Irish Water Spaniel,2022,183
+432,Irish Water Spaniel,2021,165
+433,Irish Water Spaniel,2020,174
+434,Irish Water Spaniel,2019,172
+435,Cavalier King Charles Spaniel,2023,14
+436,Cavalier King Charles Spaniel,2022,14
+437,Cavalier King Charles Spaniel,2021,15
+438,Cavalier King Charles Spaniel,2020,17
+439,Cavalier King Charles Spaniel,2019,16
+440,Dandie Dinmont Terrier,2023,186
+441,Dandie Dinmont Terrier,2022,186
+442,Dandie Dinmont Terrier,2021,174
+443,Dandie Dinmont Terrier,2020,181
+444,Dandie Dinmont Terrier,2019,176
+445,Finnish Lapphund,2023,135
+446,Finnish Lapphund,2022,167
+447,Finnish Lapphund,2021,168
+448,Finnish Lapphund,2020,165
+449,Finnish Lapphund,2019,167
+450,Otterhound,2023,189
+451,Otterhound,2022,176
+452,Otterhound,2021,178
+453,Otterhound,2020,176
+454,Otterhound,2019,174
+455,Papillon,2023,NA
+456,Papillon,2022,51
+457,Papillon,2021,54
+458,Papillon,2020,53
+459,Papillon,2019,53
+460,Chinese Shar-Pei,2023,70
+461,Chinese Shar-Pei,2022,68
+462,Chinese Shar-Pei,2021,64
+463,Chinese Shar-Pei,2020,61
+464,Chinese Shar-Pei,2019,66
+465,West Highland White Terrier,2023,43
+466,West Highland White Terrier,2022,45
+467,West Highland White Terrier,2021,46
+468,West Highland White Terrier,2020,44
+469,West Highland White Terrier,2019,44
+470,Russian Toy,2023,141
+471,Russian Toy,2022,144
+472,Russian Toy,2021,NA
+473,Russian Toy,2020,NA
+474,Russian Toy,2019,NA
+475,Nederlandse Kooikerhondje,2023,161
+476,Nederlandse Kooikerhondje,2022,170
+477,Nederlandse Kooikerhondje,2021,156
+478,Nederlandse Kooikerhondje,2020,162
+479,Nederlandse Kooikerhondje,2019,159
+480,Belgian Sheepdog,2023,124
+481,Belgian Sheepdog,2022,125
+482,Belgian Sheepdog,2021,129
+483,Belgian Sheepdog,2020,117
+484,Belgian Sheepdog,2019,128
+485,Chinook,2023,179
+486,Chinook,2022,180
+487,Chinook,2021,172
+488,Chinook,2020,186
+489,Chinook,2019,186
+490,Borzoi,2023,101
+491,Borzoi,2022,101
+492,Borzoi,2021,104
+493,Borzoi,2020,103
+494,Borzoi,2019,107
+495,Bergamasco Sheepdog,2023,188
+496,Bergamasco Sheepdog,2022,179
+497,Bergamasco Sheepdog,2021,179
+498,Bergamasco Sheepdog,2020,173
+499,Bergamasco Sheepdog,2019,182
+500,Vizsla,2023,35
+501,Vizsla,2022,33
+502,Vizsla,2021,32
+503,Vizsla,2020,35
+504,Vizsla,2019,34
+505,Berger Picard,2023,157
+506,Berger Picard,2022,153
+507,Berger Picard,2021,163
+508,Berger Picard,2020,151
+509,Berger Picard,2019,148
+510,Akita,2023,58
+511,Akita,2022,55
+512,Akita,2021,52
+513,Akita,2020,48
+514,Akita,2019,47
+515,Parson Russell Terrier,2023,117
+516,Parson Russell Terrier,2022,121
+517,Parson Russell Terrier,2021,117
+518,Parson Russell Terrier,2020,115
+519,Parson Russell Terrier,2019,120
+520,Brittany,2023,28
+521,Brittany,2022,28
+522,Brittany,2021,27
+523,Brittany,2020,28
+524,Brittany,2019,26
+525,Schipperke,2023,113
+526,Schipperke,2022,115
+527,Schipperke,2021,115
+528,Schipperke,2020,114
+529,Schipperke,2019,108
+530,Miniature Bull Terrier,2023,107
+531,Miniature Bull Terrier,2022,110
+532,Miniature Bull Terrier,2021,107
+533,Miniature Bull Terrier,2020,105
+534,Miniature Bull Terrier,2019,114
+535,Pumik,2023,NA
+536,Pumik,2022,140
+537,Pumik,2021,153
+538,Pumik,2020,156
+539,Pumik,2019,NA
+540,Spinone Italiano,2023,119
+541,Spinone Italiano,2022,NA
+542,Spinone Italiano,2021,NA
+543,Spinone Italiano,2020,NA
+544,Spinone Italiano,2019,NA
+545,Siberian Husky,2023,24
+546,Siberian Husky,2022,NA
+547,Siberian Husky,2021,NA
+548,Siberian Husky,2020,NA
+549,Siberian Husky,2019,NA
+550,Norwegian Lundehund,2023,198
+551,Norwegian Lundehund,2022,198
+552,Norwegian Lundehund,2021,197
+553,Norwegian Lundehund,2020,195
+554,Norwegian Lundehund,2019,194
+555,Shiba Inu,2023,46
+556,Shiba Inu,2022,43
+557,Shiba Inu,2021,42
+558,Shiba Inu,2020,43
+559,Shiba Inu,2019,45
+560,Cirnechi dell’Etna,2023,184
+561,Cirnechi dell’Etna,2022,184
+562,Cirnechi dell’Etna,2021,183
+563,Cirnechi dell’Etna,2020,179
+564,Cirnechi dell’Etna,2019,187
+565,Smooth Fox Terrier,2023,133
+566,Smooth Fox Terrier,2022,141
+567,Smooth Fox Terrier,2021,131
+568,Smooth Fox Terrier,2020,124
+569,Smooth Fox Terrier,2019,124
+570,Afghan Hound,2023,111
+571,Afghan Hound,2022,117
+572,Afghan Hound,2021,114
+573,Afghan Hound,2020,122
+574,Afghan Hound,2019,113
+575,Flat-Coated Retriever,2023,100
+576,Flat-Coated Retriever,2022,103
+577,Flat-Coated Retriever,2021,93
+578,Flat-Coated Retriever,2020,102
+579,Flat-Coated Retriever,2019,106
+580,Miniature Schnauzer,2023,17
+581,Miniature Schnauzer,2022,17
+582,Miniature Schnauzer,2021,18
+583,Miniature Schnauzer,2020,19
+584,Miniature Schnauzer,2019,18
+585,Swedish Vallhund,2023,138
+586,Swedish Vallhund,2022,160
+587,Swedish Vallhund,2021,160
+588,Swedish Vallhund,2020,147
+589,Swedish Vallhund,2019,161
+590,Dogues de Bordeaux,2023,84
+591,Dogues de Bordeaux,2022,78
+592,Dogues de Bordeaux,2021,70
+593,Dogues de Bordeaux,2020,71
+594,Dogues de Bordeaux,2019,69
+595,Papillion,2023,45
+596,Papillion,2022,NA
+597,Papillion,2021,NA
+598,Papillion,2020,NA
+599,Papillion,2019,NA
+600,Sealyham Terrier,2023,169
+601,Sealyham Terrier,2022,164
+602,Sealyham Terrier,2021,139
+603,Sealyham Terrier,2020,148
+604,Sealyham Terrier,2019,156
+605,Norwegian Elkhound,2023,115
+606,Norwegian Elkhound,2022,100
+607,Norwegian Elkhound,2021,100
+608,Norwegian Elkhound,2020,91
+609,Norwegian Elkhound,2019,94
+610,Redbone Coonhound,2023,140
+611,Redbone Coonhound,2022,158
+612,Redbone Coonhound,2021,155
+613,Redbone Coonhound,2020,146
+614,Redbone Coonhound,2019,145
+615,German Shorthaired Pointer,2023,10
+616,German Shorthaired Pointer,2022,10
+617,German Shorthaired Pointer,2021,9
+618,German Shorthaired Pointer,2020,9
+619,German Shorthaired Pointer,2019,9
+620,Australian Cattle Dog,2023,52
+621,Australian Cattle Dog,2022,48
+622,Australian Cattle Dog,2021,51
+623,Australian Cattle Dog,2020,54
+624,Australian Cattle Dog,2019,55
+625,Bracco Italiano,2023,152
+626,Bracco Italiano,2022,NA
+627,Bracco Italiano,2021,NA
+628,Bracco Italiano,2020,NA
+629,Bracco Italiano,2019,NA
+630,Belgian Tervuren,2023,102
+631,Belgian Tervuren,2022,104
+632,Belgian Tervuren,2021,103
+633,Belgian Tervuren,2020,106
+634,Belgian Tervuren,2019,105
+635,Miniature Pinscher,2023,74
+636,Miniature Pinscher,2022,72
+637,Miniature Pinscher,2021,76
+638,Miniature Pinscher,2020,77
+639,Miniature Pinscher,2019,75
+640,Brussels Griffon,2023,92
+641,Brussels Griffon,2022,97
+642,Brussels Griffon,2021,97
+643,Brussels Griffon,2020,89
+644,Brussels Griffon,2019,98
+645,Polish Lowland Sheepdog,2023,193
+646,Polish Lowland Sheepdog,2022,181
+647,Polish Lowland Sheepdog,2021,180
+648,Polish Lowland Sheepdog,2020,175
+649,Polish Lowland Sheepdog,2019,175
+650,Field Spaniel,2023,147
+651,Field Spaniel,2022,157
+652,Field Spaniel,2021,136
+653,Field Spaniel,2020,160
+654,Field Spaniel,2019,155
+655,English Foxhound,2023,199
+656,English Foxhound,2022,199
+657,English Foxhound,2021,196
+658,English Foxhound,2020,194
+659,English Foxhound,2019,195
+660,American Eskimo Dog,2023,129
+661,American Eskimo Dog,2022,123
+662,American Eskimo Dog,2021,122
+663,American Eskimo Dog,2020,119
+664,American Eskimo Dog,2019,122
+665,French Bulldog,2023,1
+666,French Bulldog,2022,1
+667,French Bulldog,2021,2
+668,French Bulldog,2020,2
+669,French Bulldog,2019,4
+670,Great Pyrenee,2023,64
+671,Great Pyrenee,2022,69
+672,Great Pyrenee,2021,63
+673,Great Pyrenee,2020,70
+674,Great Pyrenee,2019,70
+675,German Wirehaired Pointer,2023,61
+676,German Wirehaired Pointer,2022,59
+677,German Wirehaired Pointer,2021,59
+678,German Wirehaired Pointer,2020,60
+679,German Wirehaired Pointer,2019,64
+680,Tibetan Mastiff,2023,143
+681,Tibetan Mastiff,2022,137
+682,Tibetan Mastiff,2021,147
+683,Tibetan Mastiff,2020,140
+684,Tibetan Mastiff,2019,130
+685,Basset Hound,2023,34
+686,Basset Hound,2022,36
+687,Basset Hound,2021,34
+688,Basset Hound,2020,36
+689,Basset Hound,2019,37
+690,American English Coonhound,2023,178
+691,American English Coonhound,2022,182
+692,American English Coonhound,2021,184
+693,American English Coonhound,2020,185
+694,American English Coonhound,2019,177
+695,Manchester Terrier,2023,126
+696,Manchester Terrier,2022,130
+697,Manchester Terrier,2021,123
+698,Manchester Terrier,2020,132
+699,Manchester Terrier,2019,142
+700,Xoloitzcuintli,2023,122
+701,Xoloitzcuintli,2022,116
+702,Xoloitzcuintli,2021,119
+703,Xoloitzcuintli,2020,131
+704,Xoloitzcuintli,2019,139
+705,German Shepherd Dog,2023,4
+706,German Shepherd Dog,2022,4
+707,German Shepherd Dog,2021,4
+708,German Shepherd Dog,2020,3
+709,German Shepherd Dog,2019,2
+710,Lagotti Romagnoli,2023,NA
+711,Lagotti Romagnoli,2022,76
+712,Lagotti Romagnoli,2021,79
+713,Lagotti Romagnoli,2020,88
+714,Lagotti Romagnoli,2019,91
+715,Barbet,2023,136
+716,Barbet,2022,147
+717,Barbet,2021,148
+718,Barbet,2020,145
+719,Barbet,2019,95
+720,Saint Bernard,2023,55
+721,Saint Bernard,2022,NA
+722,Saint Bernard,2021,NA
+723,Saint Bernard,2020,NA
+724,Saint Bernard,2019,NA
+725,Greyhound,2023,127
+726,Greyhound,2022,129
+727,Greyhound,2021,132
+728,Greyhound,2020,142
+729,Greyhound,2019,164
+730,Sussex Spaniel,2023,174
+731,Sussex Spaniel,2022,192
+732,Sussex Spaniel,2021,177
+733,Sussex Spaniel,2020,172
+734,Sussex Spaniel,2019,178
+735,Pharaoh Hound,2023,176
+736,Pharaoh Hound,2022,174
+737,Pharaoh Hound,2021,176
+738,Pharaoh Hound,2020,180
+739,Pharaoh Hound,2019,163
+740,Shetland Sheepdog,2023,26
+741,Shetland Sheepdog,2022,27
+742,Shetland Sheepdog,2021,28
+743,Shetland Sheepdog,2020,27
+744,Shetland Sheepdog,2019,25
+745,Bullmastiff,2023,60
+746,Bullmastiff,2022,61
+747,Bullmastiff,2021,56
+748,Bullmastiff,2020,55
+749,Bullmastiff,2019,52
+750,Keeshond,2023,89
+751,Keeshond,2022,NA
+752,Keeshond,2021,NA
+753,Keeshond,2020,NA
+754,Keeshond,2019,NA
+755,Siberian Huskie,2023,NA
+756,Siberian Huskie,2022,21
+757,Siberian Huskie,2021,19
+758,Siberian Huskie,2020,16
+759,Siberian Huskie,2019,15
+760,Irish Setter,2023,76
+761,Irish Setter,2022,71
+762,Irish Setter,2021,71
+763,Irish Setter,2020,75
+764,Irish Setter,2019,80
+765,Collie,2023,40
+766,Collie,2022,39
+767,Collie,2021,38
+768,Collie,2020,40
+769,Collie,2019,38
+770,Tibetan Spaniel,2023,121
+771,Tibetan Spaniel,2022,127
+772,Tibetan Spaniel,2021,125
+773,Tibetan Spaniel,2020,118
+774,Tibetan Spaniel,2019,119
+775,Briard,2023,150
+776,Briard,2022,151
+777,Briard,2021,150
+778,Briard,2020,150
+779,Briard,2019,137
+780,Puli,2023,164
+781,Puli,2022,NA
+782,Puli,2021,NA
+783,Puli,2020,NA
+784,Puli,2019,162
+785,Chesapeake Bay Retriever,2023,54
+786,Chesapeake Bay Retriever,2022,52
+787,Chesapeake Bay Retriever,2021,48
+788,Chesapeake Bay Retriever,2020,50
+789,Chesapeake Bay Retriever,2019,46
+790,Bouviers des Flandre,2023,99
+791,Bouviers des Flandre,2022,98
+792,Bouviers des Flandre,2021,101
+793,Bouviers des Flandre,2020,94
+794,Bouviers des Flandre,2019,93
+795,Belgian Malinois,2023,33
+796,Belgian Malinois,2022,32
+797,Belgian Malinois,2021,36
+798,Belgian Malinois,2020,37
+799,Belgian Malinois,2019,41
+800,Old English Sheepdog,2023,77
+801,Old English Sheepdog,2022,74
+802,Old English Sheepdog,2021,69
+803,Old English Sheepdog,2020,68
+804,Old English Sheepdog,2019,71
+805,Black Russian Terrier,2023,128
+806,Black Russian Terrier,2022,128
+807,Black Russian Terrier,2021,127
+808,Black Russian Terrier,2020,126
+809,Black Russian Terrier,2019,116
+810,Beagle,2023,8
+811,Beagle,2022,8
+812,Beagle,2021,7
+813,Beagle,2020,7
+814,Beagle,2019,7
+815,Ibizan Hound,2023,166
+816,Ibizan Hound,2022,172
+817,Ibizan Hound,2021,182
+818,Ibizan Hound,2020,171
+819,Ibizan Hound,2019,173
+820,Cairn Terrier,2023,68
+821,Cairn Terrier,2022,70
+822,Cairn Terrier,2021,74
+823,Cairn Terrier,2020,73
+824,Cairn Terrier,2019,73
+825,Labrador Retriever,2023,2
+826,Labrador Retriever,2022,2
+827,Labrador Retriever,2021,1
+828,Labrador Retriever,2020,1
+829,Labrador Retriever,2019,1
+830,Löwchen,2023,159
+831,Löwchen,2022,165
+832,Löwchen,2021,NA
+833,Löwchen,2020,NA
+834,Löwchen,2019,NA
+835,Havanese,2023,25
+836,Havanese,2022,25
+837,Havanese,2021,25
+838,Havanese,2020,24
+839,Havanese,2019,22
+840,Plott Hound,2023,181
+841,Plott Hound,2022,173
+842,Plott Hound,2021,171
+843,Plott Hound,2020,167
+844,Plott Hound,2019,179
+845,Border Collie,2023,31
+846,Border Collie,2022,30
+847,Border Collie,2021,31
+848,Border Collie,2020,32
+849,Border Collie,2019,33
+850,Staffordshire Bull Terrier,2023,72
+851,Staffordshire Bull Terrier,2022,75
+852,Staffordshire Bull Terrier,2021,75
+853,Staffordshire Bull Terrier,2020,81
+854,Staffordshire Bull Terrier,2019,83
+855,Great Dane,2023,19
+856,Great Dane,2022,19
+857,Great Dane,2021,17
+858,Great Dane,2020,15
+859,Great Dane,2019,17
+860,Anatolian Shepherd Dog,2023,82
+861,Anatolian Shepherd Dog,2022,79
+862,Anatolian Shepherd Dog,2021,88
+863,Anatolian Shepherd Dog,2020,85
+864,Anatolian Shepherd Dog,2019,96
+865,Curly-Coated Retriever,2023,167
+866,Curly-Coated Retriever,2022,156
+867,Curly-Coated Retriever,2021,167
+868,Curly-Coated Retriever,2020,159
+869,Curly-Coated Retriever,2019,165
+870,Scottish Terrier,2023,59
+871,Scottish Terrier,2022,60
+872,Scottish Terrier,2021,58
+873,Scottish Terrier,2020,57
+874,Scottish Terrier,2019,57
+875,Belgian Laekenoi,2023,195
+876,Belgian Laekenoi,2022,195
+877,Belgian Laekenoi,2021,194
+878,Belgian Laekenoi,2020,NA
+879,Belgian Laekenoi,2019,NA
+880,Sloughi,2023,200
+881,Sloughi,2022,197
+882,Sloughi,2021,193
+883,Sloughi,2020,189
+884,Sloughi,2019,193
+885,Kuvaszok,2023,NA
+886,Kuvaszok,2022,177
+887,Kuvaszok,2021,169
+888,Kuvaszok,2020,177
+889,Kuvaszok,2019,168
+890,Poodle,2023,5
+891,Poodle,2022,5
+892,Poodle,2021,5
+893,Poodle,2020,6
+894,Poodle,2019,6
+895,English Cocker Spaniel,2023,39
+896,English Cocker Spaniel,2022,40
+897,English Cocker Spaniel,2021,43
+898,English Cocker Spaniel,2020,47
+899,English Cocker Spaniel,2019,50
+900,Wire Fox Terrier,2023,104
+901,Wire Fox Terrier,2022,102
+902,Wire Fox Terrier,2021,99
+903,Wire Fox Terrier,2020,104
+904,Wire Fox Terrier,2019,101
+905,Dachshund,2023,6
+906,Dachshund,2022,9
+907,Dachshund,2021,10
+908,Dachshund,2020,10
+909,Dachshund,2019,11
+910,Pomeranian,2023,22
+911,Pomeranian,2022,23
+912,Pomeranian,2021,24
+913,Pomeranian,2020,23
+914,Pomeranian,2019,24
+915,Norwich Terrier,2023,105
+916,Norwich Terrier,2022,109
+917,Norwich Terrier,2021,111
+918,Norwich Terrier,2020,109
+919,Norwich Terrier,2019,104
+920,Lakeland Terrier,2023,153
+921,Lakeland Terrier,2022,143
+922,Lakeland Terrier,2021,142
+923,Lakeland Terrier,2020,136
+924,Lakeland Terrier,2019,150
+925,Rhodesian Ridgeback,2023,41
+926,Rhodesian Ridgeback,2022,41
+927,Rhodesian Ridgeback,2021,41
+928,Rhodesian Ridgeback,2020,42
+929,Rhodesian Ridgeback,2019,42
+930,Wirehaired Vizsla,2023,142
+931,Wirehaired Vizsla,2022,142
+932,Wirehaired Vizsla,2021,144
+933,Wirehaired Vizsla,2020,155
+934,Wirehaired Vizsla,2019,147
+935,Samoyed,2023,50
+936,Samoyed,2022,53
+937,Samoyed,2021,55
+938,Samoyed,2020,56
+939,Samoyed,2019,59
+940,Australian Shepherd,2023,12
+941,Australian Shepherd,2022,12
+942,Australian Shepherd,2021,12
+943,Australian Shepherd,2020,12
+944,Australian Shepherd,2019,13
+945,Bichons Frise,2023,NA
+946,Bichons Frise,2022,47
+947,Bichons Frise,2021,47
+948,Bichons Frise,2020,45
+949,Bichons Frise,2019,43
+950,Komondorok,2023,NA
+951,Komondorok,2022,175
+952,Komondorok,2021,186
+953,Komondorok,2020,178
+954,Komondorok,2019,183
+955,Nova Scotia Duck Tolling Retriever,2023,83
+956,Nova Scotia Duck Tolling Retriever,2022,NA
+957,Nova Scotia Duck Tolling Retriever,2021,92
+958,Nova Scotia Duck Tolling Retriever,2020,90
+959,Nova Scotia Duck Tolling Retriever,2019,87
+960,Icelandic Sheepdog,2023,146
+961,Icelandic Sheepdog,2022,132
+962,Icelandic Sheepdog,2021,138
+963,Icelandic Sheepdog,2020,154
+964,Icelandic Sheepdog,2019,134
+965,Cane Corso,2023,16
+966,Cane Corso,2022,18
+967,Cane Corso,2021,21
+968,Cane Corso,2020,25
+969,Cane Corso,2019,30
+970,Irish Red and White Setter,2023,165
+971,Irish Red and White Setter,2022,168
+972,Irish Red and White Setter,2021,154
+973,Irish Red and White Setter,2020,170
+974,Irish Red and White Setter,2019,157
+975,Pembroke Welsh Corgi,2023,11
+976,Pembroke Welsh Corgi,2022,11
+977,Pembroke Welsh Corgi,2021,11
+978,Pembroke Welsh Corgi,2020,11
+979,Pembroke Welsh Corgi,2019,10
+980,Pumi,2023,172
+981,Pumi,2022,NA
+982,Pumi,2021,NA
+983,Pumi,2020,NA
+984,Pumi,2019,158
+985,Pug,2023,36
+986,Pug,2022,35
+987,Pug,2021,33
+988,Pug,2020,29
+989,Pug,2019,31
+990,Bichon Frise,2023,44
+991,Bichon Frise,2022,NA
+992,Bichon Frise,2021,NA
+993,Bichon Frise,2020,NA
+994,Bichon Frise,2019,NA
+995,Australian Terrier,2023,156
+996,Australian Terrier,2022,136
+997,Australian Terrier,2021,152
+998,Australian Terrier,2020,134
+999,Australian Terrier,2019,144
+1000,Golden Retriever,2023,3
+1001,Golden Retriever,2022,3
+1002,Golden Retriever,2021,3
+1003,Golden Retriever,2020,4
+1004,Golden Retriever,2019,3
+1005,Clumber Spaniel,2023,148
+1006,Clumber Spaniel,2022,139
+1007,Clumber Spaniel,2021,149
+1008,Clumber Spaniel,2020,135
+1009,Clumber Spaniel,2019,136
+1010,Nova Scotia Duck Tolling   Retriever,2023,NA
+1011,Nova Scotia Duck Tolling   Retriever,2022,81
+1012,Nova Scotia Duck Tolling   Retriever,2021,NA
+1013,Nova Scotia Duck Tolling   Retriever,2020,NA
+1014,Nova Scotia Duck Tolling   Retriever,2019,NA
+1015,Standard Schnauzer,2023,96
+1016,Standard Schnauzer,2022,94
+1017,Standard Schnauzer,2021,96
+1018,Standard Schnauzer,2020,92
+1019,Standard Schnauzer,2019,99
+1020,Leonberger,2023,98
+1021,Leonberger,2022,114
+1022,Leonberger,2021,102
+1023,Leonberger,2020,98
+1024,Leonberger,2019,97
+1025,Harrier,2023,190
+1026,Harrier,2022,193
+1027,Harrier,2021,188
+1028,Harrier,2020,190
+1029,Harrier,2019,188
+1030,Bulldog,2023,7
+1031,Bulldog,2022,6
+1032,Bulldog,2021,6
+1033,Bulldog,2020,5
+1034,Bulldog,2019,5
+1035,Alaskan Malamute,2023,71
+1036,Alaskan Malamute,2022,67
+1037,Alaskan Malamute,2021,68
+1038,Alaskan Malamute,2020,65
+1039,Alaskan Malamute,2019,65
+1040,Black and Tan Coonhound,2023,131
+1041,Black and Tan Coonhound,2022,149
+1042,Black and Tan Coonhound,2021,141
+1043,Black and Tan Coonhound,2020,127
+1044,Black and Tan Coonhound,2019,143
+1045,Beauceron,2023,109
+1046,Beauceron,2022,111
+1047,Beauceron,2021,121
+1048,Beauceron,2020,121
+1049,Beauceron,2019,123
+1050,Petit Basset Griffon Vendéen,2023,158
+1051,Petit Basset Griffon Vendéen,2022,NA
+1052,Petit Basset Griffon Vendéen,2021,NA
+1053,Petit Basset Griffon Vendéen,2020,NA
+1054,Petit Basset Griffon Vendéen,2019,NA
+1055,German Pinscher,2023,151
+1056,German Pinscher,2022,145
+1057,German Pinscher,2021,146
+1058,German Pinscher,2020,139
+1059,German Pinscher,2019,125
+1060,Entlebucher Mountain Dog,2023,183
+1061,Entlebucher Mountain Dog,2022,162
+1062,Entlebucher Mountain Dog,2021,173
+1063,Entlebucher Mountain Dog,2020,152
+1064,Entlebucher Mountain Dog,2019,169
+1065,Boerboel,2023,123
+1066,Boerboel,2022,118
+1067,Boerboel,2021,118
+1068,Boerboel,2020,123
+1069,Boerboel,2019,129
+1070,Biewer Terrier,2023,78
+1071,Biewer Terrier,2022,77
+1072,Biewer Terrier,2021,82
+1073,Biewer Terrier,2020,NA
+1074,Biewer Terrier,2019,NA
+1075,Pekingese,2023,91
+1076,Pekingese,2022,96
+1077,Pekingese,2021,94
+1078,Pekingese,2020,95
+1079,Pekingese,2019,84
+1080,Lagotto Romagnolo,2023,80
+1081,Lagotto Romagnolo,2022,NA
+1082,Lagotto Romagnolo,2021,NA
+1083,Lagotto Romagnolo,2020,NA
+1084,Lagotto Romagnolo,2019,NA
